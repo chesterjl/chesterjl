@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-👋 About Me<br>Hi! I'm Chester, an aspiring Software Engineer with a growing passion for building scalable and efficient applications. <br><br>
+# 👋 About Me
+Hi! I'm Chester, an aspiring Software Engineer with a growing passion for building scalable and efficient applications. <br><br>
 
 
 # 💻 Tech Stack:
